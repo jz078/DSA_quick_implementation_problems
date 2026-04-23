@@ -1,7 +1,7 @@
 package small_implementation_problems;
 import java.util.Scanner;
 
-public class A07_Fibonacci {
+public class A07_Fibonacci_Numbers_uptoN {
     // print all fibonacci number upto n
     private static void fib(int n) {
         if(n<0) return;
@@ -20,7 +20,7 @@ public class A07_Fibonacci {
         }
     }
     // print first n fibonacci numbers
-    // ???
+    // ??? (will do it later)
 
 
     public static void main(String[] args) {

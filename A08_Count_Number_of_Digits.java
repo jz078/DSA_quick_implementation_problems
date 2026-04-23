@@ -2,7 +2,7 @@ package small_implementation_problems;
 
 import java.util.Scanner;
 
-public class CountNumberOfDigits_8 {
+public class A08_Count_Number_of_Digits {
     // count digits method
     private static int method1(int num) {
         if(num == 0) return 1;
