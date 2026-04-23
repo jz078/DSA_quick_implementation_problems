@@ -1,7 +1,7 @@
 package small_implementation_problems;
 //import java.util.*;
 
-public class Armstrong_Number_01 {
+public class A01_Armstrong_Number {
     public static boolean ifArmstrong1(int num) {
 //        int length = num == 0 ? 1 : (int)Math.log10(num) + 1;
         int length = String.valueOf(num).length(); // safer
