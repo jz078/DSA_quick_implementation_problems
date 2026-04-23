@@ -1,6 +1,6 @@
 package small_implementation_problems;
 
-public class GCD_And_HCF_3 {
+public class A03_GCD_HCF {
 
     // gcd iterative
     // Function to find GCD using Euclidean algorithm
